@@ -1,2 +1,2 @@
 # TengchongDataS1
-Support Data for the paper titled "Intraplate volcanism originating from the dehydrated mantle transition zone：Geochemical evidence from temporal and spatial characteristics of hydrothermal volatiles in southeastern Tibetan Plateau".
+Support Data for the paper entitled "Spatiotemporal characteristics of hydrothermal volatiles in the southeastern Tibetan Plateau: Constraints on the genesis of intraplate volcanism".
